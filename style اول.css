@@ -1,0 +1,272 @@
+@import url("https://fonts.googleapis.com/css2?family=Kufam:wght@700&family=Tajawal:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 12px;
+  margin-left: 99px;
+  margin-top: 12rem;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Tajawal", sans-serif;
+  background: rgba(0, 70, 41, 0.438);
+  overflow-x: hidden;
+}
+
+
+.btn {
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 151, 221);
+  text-decoration: none;
+  margin-left: 68px;
+  border-top-style: solid;
+
+
+}
+
+.btn1 {
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(223, 57, 57);
+  text-decoration: none;
+  margin-left: 70px;
+  border-top-style: solid;
+
+
+}
+
+.bbn {
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(223, 57, 57);
+  text-decoration: none;
+  margin-left: 80px;
+  border-top-style: solid;
+
+}
+
+.btn4 {
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(225, 189, 0);
+  text-decoration: none;
+  margin-left: 68px;
+  border-top-style: solid;
+
+}
+
+.nfa {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 180px;
+  margin-top: -70px;
+}
+
+
+
+.nfa1 {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 185px;
+  margin-top: -70px;
+  
+}
+
+.nfa0 {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 84px;
+  margin-top: -70px;
+  
+}
+
+.nfa2 {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 180px;
+  margin-top: -70px;
+}
+
+.nfa3 {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 185px;
+  margin-top: -70px;
+}
+
+.n1 {
+  font-family: inherit;
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 135, 197);
+  text-decoration: none;
+  margin-left: 80px;
+
+}
+
+.n10 {
+  font-family: inherit;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding: 0.85rem 25rem;
+  border-radius: 9rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 182, 106);
+  text-decoration: none;
+  margin-left: 160px;
+  border-top-style: solid;
+}
+
+.n12 {
+  font-family: inherit;
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(225, 189, 0);
+  text-decoration: none;
+  margin-left: 80px;
+  border-top-style: solid;
+
+}
+
+.n121 {
+  font-family: inherit;
+  font-size: 4rem;
+  font-weight: bold;
+  padding: 0.85rem 16rem;
+  border-radius: 9rem;
+  border: none;
+  color: #243b53;
+  background: rgb(225, 189, 0);
+  text-decoration: none;
+  margin-left: 295px;
+  border-top-style: solid;
+
+}
+
+
+.n11 {
+  font-family: inherit;
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(223, 57, 57);
+  text-decoration: none;
+  margin-left: 80px;
+  border-top-style: solid;
+
+
+}
+
+.e {
+  font-family: inherit;
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(223, 57, 57);
+  text-decoration: none;
+  margin-left: 380px;
+  border-top-style: solid;
+
+
+}
+
+
+.btn:hover {
+  background: rgb(0, 124, 182)
+}
+
+.btn1:hover {
+  background: rgb(165, 54, 54)
+}
+
+
+.n1:hover {
+  background: #8a8a8a;
+}
+
+.n11:hover {
+  background: rgb(165, 54, 54)
+}
+
+.n10:hover {
+  background: rgb(0, 143, 83);
+}
+
+.n12:hover {
+  background: rgb(185, 156, 10);
+}
+
+.btn4:hover {
+  background: rgb(185, 156, 10);
+}
+
+.n121:hover {
+  background: rgb(185, 156, 10);
+}
+
